@@ -87,3 +87,12 @@ invited for the call** as we believe that it’s only fair to put in the same am
 time as do the candidates.
 
 We hope that you will have fun with it! 
+
+### Using the new ingest command
+
+You can run the new command as follows:
+
+```console
+>> cd maio
+>> python manage.py ingest ../example.json
+```
