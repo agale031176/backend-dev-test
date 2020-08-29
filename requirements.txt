@@ -1,3 +1,4 @@
 django-behave==0.1.*
 django==3.0.*
 redis==3.3.*
+django-redis==4.12.*
